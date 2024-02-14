@@ -1,2 +1,2 @@
 # GitDemo
-Demo Git Repo
+Adding feature 3
